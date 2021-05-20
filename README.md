@@ -28,6 +28,7 @@
   - Yara
   - Splunk
   - Active Directory
+  - Unity
 
 - #### Database 💿
   - MongoDB
