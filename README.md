@@ -39,8 +39,8 @@ Thank you for visiting my GitHub! I am always looking to meet new people and cre
 I am a currently an looking forward to tackle the world of Computer Security/Engineering , and am looking forward to a great year!
 
 - 📫 How to reach me ...
-[LinkedIn](https://www.linkedin.com/in/dennissarovski/):link:
-[dennissarovski@gmail.com​ ](mailto:dennissarovski@gmail.com):mailbox:
+    - [LinkedIn](https://www.linkedin.com/in/dennissarovski/):link:
+    - [dennissarovski@gmail.com​ ](mailto:dennissarovski@gmail.com):mailbox:
 
 - 🌱 I’m currently learning ...
     - CompTIA Sec+   
