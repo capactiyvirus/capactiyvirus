@@ -1,6 +1,6 @@
 ## Hello 🗺️ my name is Dennis Sarovski!
 
-- #### Graduate Computer Security Student 🧑‍🎓
+- #### Graduate Computer Security Student 🎓
 
 
 - 👋 Hi, I’m @capactiyvirus
