@@ -1,6 +1,6 @@
 ## 👋Hello👋 🗺️ my name is Dennis Sarovski!
 
-- #### Graduate Computer Security Student 🎓
+- #### Computer Security Graduate 🎓
 - #### Based in :canada: 🍁
 
 - #### Frameworks 🏭
