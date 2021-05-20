@@ -38,21 +38,15 @@ Thank you for visiting my GitHub! I am always looking to meet new people and cre
 
 I am a currently an looking forward to tackle the world of Computer Security/Engineering , and am looking forward to a great year!
 
+- 📫 How to reach me ...
 [LinkedIn](https://www.linkedin.com/in/dennissarovski/):link:
-
 [dennissarovski@gmail.com​ ](mailto:dennissarovski@gmail.com):mailbox:
 
-
-
-
-
-
-
-- 👋 Hi, I’m @capactiyvirus
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+    - CompTIA Sec+   
+- 👀 I’m interested in ...
+    - CISSP, CISM, CISA
+
 
 <!---
 capactiyvirus/capactiyvirus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
