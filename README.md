@@ -1,7 +1,7 @@
 ## 👋Hello👋 🗺️ my name is Dennis Sarovski!
 
 - #### Graduate Computer Security Student 🎓
-- #### Based in :canada: :maple_leaf:
+- #### Based in :canada: 🍁
 
 - #### Frameworks 🏭
   - React/React Native
@@ -16,16 +16,20 @@
   - Java
   - C/C++
   - TypeScript
+  - C#
 
 - #### Tools 🔧 `&&` Cloud ☁️
-
   - Docker
-  - CI/CD
   - AWS
   - Firebase
+  - WireShark
+  - BurpSuite
+  - MITRE
+  - Yara
+  - Splunk
+  - Active Directory
 
 - #### Database 💿
-
   - MongoDB
   - PostgreSQL
   - MySQL
