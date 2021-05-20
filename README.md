@@ -46,7 +46,7 @@ I am a currently an looking forward to tackle the world of Computer Security/Eng
 - 🌱 I’m currently learning ...
     - CompTIA Sec+   
 - 👀 I’m interested in ...
-    - CISSP, CISM, CISA
+    - CISSP, CISM, CISA, OWASP
 
 
 <!---
