@@ -10,6 +10,7 @@
   - Gensim
   - Bootstrap
   - ExpressJS
+  - Scapy
 
 - #### Programming Languages ✍️
   - Python
@@ -46,7 +47,7 @@ I am a currently an looking forward to tackle the world of Computer Security/Eng
 - 🌱 I’m currently learning ...
     - CompTIA Sec+   
 - 👀 I’m interested in ...
-    - CISSP, CISM, CISA, OWASP
+    - CISSP, CISM, CISA, OWASP, SOC 2, SIEM, ATT&CK
 
 
 <!---
