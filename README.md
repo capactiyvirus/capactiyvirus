@@ -1,7 +1,7 @@
 ## 👋Hello👋 🗺️ my name is Dennis Sarovski!
 
 - #### Computer Security Graduate 🎓
-- #### Based in :canada: 🍁
+- #### Based in 🇨🇦 🍁
 
 - #### Frameworks 🏭
   - React/React Native
