@@ -1,4 +1,9 @@
-- #👋 Hi, I’m @capactiyvirus
+## Hello 🗺️ my name is Dennis Sarovski!
+
+- #### Graduate Computer Security Student 🧑‍🎓
+
+
+- 👋 Hi, I’m @capactiyvirus
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
