@@ -2,6 +2,7 @@
 
 - #### Computer Security Graduate 🎓
 - #### Based in 🇨🇦 🍁
+- #### [MySite](https://gatsbysitemain69841.gatsbyjs.io/):computer:
 
 - #### Frameworks 🏭
   - React/React Native
@@ -43,7 +44,7 @@ I am a currently an looking forward to tackle the world of Computer Security/Eng
 - 📫 How to reach me ...
     - [LinkedIn](https://www.linkedin.com/in/dennissarovski/):link:
     - [dennissarovski@gmail.com​ ](mailto:dennissarovski@gmail.com):mailbox:
-    - [MySite](https://gatsbysitemain69841.gatsbyjs.io/):computer:
+    
 
 - 🌱 I’m currently learning ...
     - CompTIA Sec+   
